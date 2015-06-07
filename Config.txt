@@ -1,0 +1,6 @@
+host=127.0.0.1
+port=1099
+rCount=5
+wCount=4
+idListFirst=1
+idListLast=200
